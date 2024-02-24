@@ -2,7 +2,7 @@
 
 # Install Flatpak
 echo "Installing Flatpak..."
-sudo pacman -S flatpak --noconfirm
+sudo pacman -S flatpak --needed --noconfirm
 
 # Add Flathub repository
 echo "Adding Flathub repository..."
