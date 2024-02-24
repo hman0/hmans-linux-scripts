@@ -32,7 +32,7 @@ background_opacity 0.9
 # Set font
 font_family FiraCode
 
-confirm_quit no
+confirm_os_window_close -0
 EOF
 )
 
